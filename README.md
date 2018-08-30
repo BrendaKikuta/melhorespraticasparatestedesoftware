@@ -1,2 +1,2 @@
 # melhorespraticasparatestedesoftware
-Versão 1.0 do trabalho de Engenharia de Software
+Versão 1.4 do trabalho de Engenharia de Software
